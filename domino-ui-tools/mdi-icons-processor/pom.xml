@@ -101,6 +101,7 @@
                                     <excludes>
                                         <exclude>**/*.java</exclude>
                                         <exclude>**/*.gwt.xml</exclude>
+                                        <exclude>**/META-INF/gwt/*</exclude>
                                     </excludes>
                                 </filter>
                                 <filter>
